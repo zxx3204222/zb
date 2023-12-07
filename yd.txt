@@ -114,7 +114,7 @@ CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221227717/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8
-CCTV110,http://ott.mobaibox.com/PLTV/3/224/3221227524/index.m3u8
+CCTV11,http://ott.mobaibox.com/PLTV/3/224/3221227524/index.m3u8
 CCTV11,http://ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8
 CCTV11,http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
 CCTV11,http://ott.mobaibox.com/PLTV/3/224/3221228289/index.m3u8
