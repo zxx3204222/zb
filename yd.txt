@@ -172,12 +172,12 @@ CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221227601/index.m3u8
 CGTN 4M576,http://ott.mobaibox.com/PLTV/3/224/3221228095/index.m3u8
 CGTN,http://ott.mobaibox.com/PLTV/3/224/3221225917/index.m3u8
 CGTN纪录 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8
-中国教育1 3.5M576,http://ott.mobaibox.com/PLTV/3/224/3221227560/index.m3u8
+中国教育1,http://ott.mobaibox.com/PLTV/3/224/3221227560/index.m3u8
 中国教育1,http://ott.mobaibox.com/PLTV/3/224/3221225909/index.m3u8
 中国教育2 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
 中国教育2,http://ott.mobaibox.com/PLTV/3/224/3221225850/index.m3u8
 中国教育3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-中国教育4 3.5M576,http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
+中国教育4http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
 中国教育4,http://ott.mobaibox.com/PLTV/3/224/3221227028/index.m3u8
 纯享4K 12M2160,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 纯享4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
@@ -362,21 +362,21 @@ CGTN纪录 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8
 海南卫视,http://ott.mobaibox.com/PLTV/3/224/3221225810/index.m3u8
 湖北卫视,http://ott.mobaibox.com/PLTV/3/224/3221225877/index.m3u8
 湖南卫视,http://ott.mobaibox.com/PLTV/3/224/3221228498/index.m3u8
-湖南金鹰卡通 3.5M576,http://ott.mobaibox.com/PLTV/3/224/3221227630/index.m3u8
+湖南金鹰卡通,http://ott.mobaibox.com/PLTV/3/224/3221227630/index.m3u8
 湖南金鹰卡通,http://ott.mobaibox.com/PLTV/3/224/3221226303/index.m3u8
-湖南金鹰纪实 4M576,http://ott.mobaibox.com/PLTV/3/224/3221228110/index.m3u8
+湖南金鹰纪实,http://ott.mobaibox.com/PLTV/3/224/3221228110/index.m3u8
 甘肃卫视,http://ott.mobaibox.com/PLTV/3/224/3221225846/index.m3u8
-西藏卫视 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227562/index.m3u8
+西藏卫视,http://ott.mobaibox.com/PLTV/3/224/3221227562/index.m3u8
 西藏卫视,http://ott.mobaibox.com/PLTV/3/224/3221226376/index.m3u8
 贵州卫视,http://ott.mobaibox.com/PLTV/3/224/3221225787/index.m3u8
 辽宁卫视,http://ott.mobaibox.com/PLTV/3/224/3221225802/index.m3u8
-辽宁卫视 720,http://ott.mobaibox.com/PLTV/3/224/3221225566/index.m3u8
+辽宁卫视 ,http://ott.mobaibox.com/PLTV/3/224/3221225566/index.m3u8
 重庆卫视,http://ott.mobaibox.com/PLTV/3/224/3221225812/index.m3u8
-陕西卫视 3.5M576,http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
+陕西卫视,http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
 陕西卫视,http://ott.mobaibox.com/PLTV/3/224/3221227022/index.m3u8
 青海卫视,http://ott.mobaibox.com/PLTV/3/224/3221225783/index.m3u8
 黑龙江卫视,http://ott.mobaibox.com/PLTV/3/224/3221228493/index.m3u8
-厦门卫视 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
+厦门卫视,http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
 厦门卫视,http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
 吉林延边卫视 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227590/index.m3u8
 吉林延边卫视,http://ott.mobaibox.com/PLTV/3/224/3221227002/index.m3u8
@@ -386,24 +386,24 @@ CGTN纪录 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8
 山东教育卫视,http://ott.mobaibox.com/PLTV/3/224/3221227019/index.m3u8
 广东大湾区卫视 3.5M576,http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
 广东大湾区卫视,http://ott.mobaibox.com/PLTV/3/224/3221227005/index.m3u8
-新疆兵团卫视 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227654/index.m3u8
+新疆兵团卫视,http://ott.mobaibox.com/PLTV/3/224/3221227654/index.m3u8
 新疆兵团卫视,http://ott.mobaibox.com/PLTV/3/224/3221227025/index.m3u8
 西藏藏语卫视,http://ott.mobaibox.com/PLTV/3/224/3221228022/index.m3u8
-陕西农林卫视 3.5M576,http://ott.mobaibox.com/PLTV/3/224/3221227648/index.m3u8
+陕西农林卫视,http://ott.mobaibox.com/PLTV/3/224/3221227648/index.m3u8
 陕西农林卫视,http://ott.mobaibox.com/PLTV/3/224/3221227015/index.m3u8
 青海安多卫视,http://ott.mobaibox.com/PLTV/3/224/3221226999/index.m3u8
 青海安多卫视,http://ott.mobaibox.com/PLTV/3/224/3221227651/index.m3u8
 弈坛春秋,http://ott.mobaibox.com/PLTV/3/224/3221227031/index.m3u8
 影视剧频道,http://ott.mobaibox.com/PLTV/3/224/3221227372/index.m3u8
 京视剧场,http://ott.mobaibox.com/PLTV/3/224/3221227040/index.m3u8
-上海哈哈炫动 3.5M576,http://ott.mobaibox.com/PLTV/3/224/3221227586/index.m3u8
+上海哈哈炫动,http://ott.mobaibox.com/PLTV/3/224/3221227586/index.m3u8
 上海哈哈炫动,http://ott.mobaibox.com/PLTV/3/224/3221226388/index.m3u8
-北京卡酷少儿 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
+北京卡酷少儿,http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
 北京卡酷少儿,http://ott.mobaibox.com/PLTV/3/224/3221226305/index.m3u8
-广东嘉佳卡通 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
+广东嘉佳卡通,http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
 广东嘉佳卡通,http://ott.mobaibox.com/PLTV/3/224/3221227009/index.m3u8
 
-青岛中华美食 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
+青岛中华美食,http://ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
 青岛中华美食,http://ott.mobaibox.com/PLTV/3/224/3221227017/index.m3u8
 
 江苏地方,#genre#
@@ -411,8 +411,8 @@ CGTN纪录 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8
 南京娱乐,http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 南京新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221228078/index.m3u8
 南京新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
-江苏优漫卡通 3.5M576,http://ott.mobaibox.com/PLTV/3/224/3221226982/index.m3u8
-江苏优漫卡通 3.5M576,http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
+江苏优漫卡通,http://ott.mobaibox.com/PLTV/3/224/3221226982/index.m3u8
+江苏优漫卡通,http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
 江苏优漫卡通,http://ott.mobaibox.com/PLTV/3/224/3221225933/index.m3u8
 江苏体育休闲,http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
 江苏公共新闻,http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
@@ -444,6 +444,26 @@ CGTN纪录 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8
 扬州2,http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
 扬州2,http://ott.mobaibox.com/PLTV/3/224/3221228338/index.m3u8
 扬州3,http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
+苏州新闻综合,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+苏州社会经济,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+苏州生活资讯,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+苏州4K超清,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+无锡新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
+无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
+无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
+无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
+无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
+无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
+无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
+无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
+无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
+无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
+常熟综合,http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 东海综合,http://ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
 仪化有线,http://ott.mobaibox.com/PLTV/3/224/3221227702/index.m3u8
 宝应新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
@@ -452,7 +472,6 @@ CGTN纪录 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8
 徐州2,http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
 徐州3,http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
 徐州4,http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
-江西风尚购物,http://ott.mobaibox.com/PLTV/3/224/3221225956/index.m3u8
 沛县文艺影视,http://ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8
 沛县新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8
 沛县经济生活,http://ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
@@ -473,7 +492,6 @@ CGTN纪录 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8
 宿迁综合,http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
 新沂1,http://ott.mobaibox.com/PLTV/3/224/3221227289/index.m3u8
 新沂2,http://ott.mobaibox.com/PLTV/3/224/3221227311/index.m3u8
-无锡新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
 洪泽综合,http://ott.mobaibox.com/PLTV/3/224/3221228287/index.m3u8
 苏州新闻综合 520,http://ott.mobaibox.com/PLTV/3/224/3221227768/index.m3u8
 贾汪新闻 3M576,http://ott.mobaibox.com/PLTV/3/224/3221227385/index.m3u8
@@ -483,25 +501,6 @@ CGTN纪录 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8
 铜山综合 2M1080,http://ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
 镇江2,http://ott.mobaibox.com/PLTV/3/224/3221227325/index.m3u8
 镇江3,http://ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
-苏州新闻综合,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
-苏州社会经济,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
-苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
-苏州生活资讯,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
-苏州4K超清,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
-无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
-无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
-无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
-无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
-无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
-无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
-无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
-无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
-常熟综合,http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 徐州新闻综合,http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
 徐州经济生活,http://stream3.huaihai.tv/xz2t/sd/live.m3u8
 徐州公共频道,http://stream3.huaihai.tv/xz4t/sd/live.m3u8
@@ -610,7 +609,38 @@ CGTN纪录 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8
 百视电影42,https://bp-caster.bestv.com.cn/130/3/video.m3u8
 百视搞笑43,https://bp-caster.bestv.com.cn/131/3/video.m3u8
 百视搞笑44,https://bp-caster.bestv.com.cn/132/3/video.m3u8
-周星驰,#genre#
+相声有新人,http://bp-caster.bestv.com.cn/512/1/video.m3u8
+相声有新人,http://bp-caster.bestv.com.cn:80/335/3/video.m3u8
+
+电影,#genre#
+恐怖经典,http://api.52tb.xyz/info?id=1024&token=20230314vyrzsx
+变种人电影,http://api.52tb.xyz/info?id=1025&token=20230314vyrzsx
+小宇60帧,http://api.52tb.xyz/info?id=1026&token=20230314vyrzsx
+华语电影,http://api.52tb.xyz/info?id=1027&token=20230314vyrzsx
+华语动作电影,http://api.52tb.xyz/info?id=1028&token=20230314vyrzsx
+恐怖电影,http://api.52tb.xyz/info?id=1029&token=20230314vyrzsx
+喜剧电影,http://api.52tb.xyz/info?id=1030&token=20230314vyrzsx
+欧美大片,http://api.52tb.xyz/info?id=1031&token=20230314vyrzsx
+麓山迷踪,http://api.52tb.xyz/info?id=1034&token=20230314vyrzsx
+译制影片,http://api.52tb.xyz/info?id=1035&token=20230314vyrzsx
+周星驰,http://api.52tb.xyz/info?id=1036&token=20230314vyrzsx
+华语经典,http://api.52tb.xyz/info?id=1001&token=20230314vyrzsx
+吃米滴虫,http://api.52tb.xyz/info?id=1002&token=20230314vyrzsx
+神乐影片1,http://api.52tb.xyz/info?id=1003&token=20230314vyrzsx
+神乐影片2,http://api.52tb.xyz/info?id=1004&token=20230314vyrzsx
+特辑影院,http://api.52tb.xyz/info?id=1005&token=20230314vyrzsx
+贝爷MAX厅,http://api.52tb.xyz/info?id=1006&token=20230314vyrzsx
+漫威影片,http://api.52tb.xyz/info?id=1007&token=20230314vyrzsx
+刘德华电影1,http://api.52tb.xyz/info?id=1008&token=20230314vyrzsx
+豆瓣高分,http://api.52tb.xyz/info?id=1010&token=20230314vyrzsx
+林正英电影1,http://api.52tb.xyz/info?id=1011&token=20230314vyrzsx
+林正英电影2,http://api.52tb.xyz/info?id=1012&token=20230314vyrzsx
+贝爷影厅2,http://api.52tb.xyz/info?id=1017&token=20230314vyrzsx
+霍格影片,http://api.52tb.xyz/info?id=1018&token=20230314vyrzsx
+可乐电影,http://api.52tb.xyz/info?id=1019&token=20230314vyrzsx
+冰冰经典电影,http://api.52tb.xyz/info?id=1020&token=20230314vyrzsx
+奶虫恐怖电影,http://api.52tb.xyz/info?id=1021&token=20230314vyrzsx
+避风港影院,http://api.52tb.xyz/info?id=1022&token=20230314vyrzsx
 功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
 国产凌凌漆,https://jisu-xhzy.com/videos/202206/08/62a0fdd0b11cac3eba3b00e0/e260eg/index.m3u8
@@ -692,7 +722,6 @@ CGTN纪录 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8
 燕双鹰狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=3439096
 爆笑解说,http://maomao.kandiantv.cn/douyu1.php?id=2660125
 爆笑解说,http://maomao.kandiantv.cn/douyu1.php?id=8317926
-片荒的日子,http://maomao.kandiantv.cn/douyu1.php?id=4258555
 牛郎织女,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
 特别攻击队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/c69eed95a2cd4752850bcac109151e37/850.m3u8
 特辑影院,http://maomao.kandiantv.cn/douyu1.php?id=3637778
@@ -702,10 +731,6 @@ CGTN纪录 4M576,http://ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8
 猫和老鼠,http://bp-caster.bestv.com.cn:80/319/1/video.m3u8
 猫和老鼠,http://bp-caster.bestv.com.cn:80/319/1/video.m3u8?servicetype=1
 王老虎抢亲,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
-
-相声有新人,http://bp-caster.bestv.com.cn/512/1/video.m3u8
-相声有新人,http://bp-caster.bestv.com.cn:80/335/3/video.m3u8
-
 看美剧,http://maomao.kandiantv.cn/douyu1.php?id=8869614
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
 碧玉簪,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8
@@ -807,8 +832,8 @@ NewTV精品萌宠,http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 NewTV金牌综艺,http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
 咪咕,#genre#
 咪咕全民热练,http://ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8
-咪咕怀旧剧场 2M1080,http://ott.mobaibox.com/PLTV/3/224/3221228120/index.m3u8
-咪咕视频 1080,http://ott.mobaibox.com/PLTV/3/224/3221228084/index.m3u8
+咪咕怀旧剧场,http://ott.mobaibox.com/PLTV/3/224/3221228120/index.m3u8
+咪咕视频,http://ott.mobaibox.com/PLTV/3/224/3221228084/index.m3u8
 咪咕视频,http://ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
 咪咕视频,http://ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
 咪咕视频,http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
