@@ -832,11 +832,10 @@ NewTV金牌综艺,http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
 咪咕,#genre#
 咪咕全民热练,http://ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8
 咪咕怀旧剧场,http://ott.mobaibox.com/PLTV/3/224/3221228120/index.m3u8
-咪咕视频,http://ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
-咪咕视频,http://ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
-咪咕视频,http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
-咪咕视频,http://ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
-咪咕视频,http://ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8
+咪咕视频1,http://ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
+咪咕视频2,http://ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
+咪咕视频3,http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
+咪咕视频4,http://ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
 黑莓,#genre#
 黑莓动画,http://ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8
 黑莓动画,http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
